@@ -1,0 +1,28 @@
+{
+  "name": "noda_hw",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nepiushiu1/node_hw_1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nepiushiu1/node_hw_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nepiushiu1/node_hw_1/issues"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "commander": "^9.5.0"
+  }
+}
